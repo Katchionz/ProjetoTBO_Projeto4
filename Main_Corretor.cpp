@@ -13,6 +13,7 @@ int main() {
     string palavraErrada = "sistemaz"; // Forçando um erro
     cout << "\nPalavra com erro: " << palavraErrada << endl;
     cout << "Buscando sugestoes...\n" << endl;
+    
 
     vector<string> sugestoes = meuCorretor.sugerir(palavraErrada, 3);
 
