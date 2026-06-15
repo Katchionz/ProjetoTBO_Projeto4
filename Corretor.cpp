@@ -41,6 +41,7 @@ void Corretor::carregarDicionario(const std::string& caminhoArquivo) {
         dicionario.push_back(palavra);
     }
     arquivo.close();
+    
 }
 
 std::vector<std::string> Corretor::sugerir(const std::string& palavraErrada, int limite) {
