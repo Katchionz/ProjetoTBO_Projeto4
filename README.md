@@ -4,7 +4,7 @@
 │   ├── Corretor.cpp
 │   ├── Cifra.cpp
 │   ├── Buscador.cpp
-│   └── Main_Geral.cpp       
+│   └── Main_Geral.cpp     
 ├── 📁 include/            
 │   ├── Dicionario.hpp
 │   ├── Corretor.hpp
