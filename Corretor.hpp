@@ -22,6 +22,7 @@ private:
 public:
     void carregarDicionario(const std::string& caminhoArquivo);
     std::vector<std::string> sugerir(const std::string& palavraErrada, int limite = 3);
+
 };
 
 #endif
